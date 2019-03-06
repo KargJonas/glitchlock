@@ -5,6 +5,6 @@
 #### Run `glitchlock.sh` to lock i3.
 
 ### Installation:
-- `sudo apt-get install imagemagick scrot`
+- `sudo apt-get install imagemagick scrot libxcb-composite0`
 - Download this repo (`git clone git@github.com:KargJonas/glitchlock.git`)
 - Run `glitchlock.sh` to lock i3.
